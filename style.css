@@ -7,10 +7,12 @@ body{
 #cl{
     background-color: burlywood;
     text-align: center;
+    width: 100%;
 }
 #c{
     background-color: aquamarine;
     text-align: center;
+    width: 100%;
 }
 .my_nav_bar{
     position: sticky;
@@ -21,7 +23,8 @@ input{
     background: grey;
 }
 #c iframe{
-    width: 100%;}
+    width: 100%;
+}
 #cl iframe
 {
     width: 100%;
