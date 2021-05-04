@@ -20,3 +20,9 @@ body{
 input{
     background: grey;
 }
+#c iframe{
+    width: 100%;}
+#cl iframe
+{
+    width: 80%;
+}
