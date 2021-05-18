@@ -57,6 +57,7 @@ school_achievement1{
 }
 .img_modal{
     display: inline-block;
+    cursor: pointer;
 }
 .p_modal{
     margin-top: 10px;
